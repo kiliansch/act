@@ -33,7 +33,7 @@ and
 [filesystem](https://help.github.com/en/actions/reference/virtual-environments-for-github-hosted-runners#filesystems-on-github-hosted-runners)
 are all configured to match what GitHub provides.
 
-Let's see it in action with a
+Let's see it in action with a a
 [sample repo](https://github.com/cplee/github-actions-demo)!
 
 ![Demo](https://github.com/kiliansch/act/wiki/quickstart/act-quickstart-2.gif)
