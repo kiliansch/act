@@ -26,9 +26,7 @@ archives:
         format: zip
 brews:
   - skip_upload: true
-
 scoop:
   - skip_upload: true
-
 snapcrafts:
   - publish: false
